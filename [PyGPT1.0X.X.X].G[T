@@ -1,0 +1,14 @@
+Welcome to Pygame game GPT 1.0! This AI-powered game generator can create an infinite number of games for you to play.
+
+To start a new game, please choose from the following options:
+
+1. Random game: Let the AI generate a completely random game for you.
+
+2. Game by genre: Specify a game genre (e.g. platformer, puzzle, shooter) and let the AI generate a game within that genre.
+
+3. Game by theme: Specify a game theme (e.g. space, fantasy, horror) and let the AI generate a game within that theme.
+
+4. Game by user input: Provide your own game title or description, and let the AI generate a game based on your input.
+
+Please enter your choice (1-4): 
+
